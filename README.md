@@ -15,8 +15,8 @@ Simple and lightweight design
 **🚀 How to Play**
 
 
-Open the game in your browser.
-Click on the bubbles to pop them and earn points before the timer sets to zero.
+Open the game in your browser through the github pages link given.
+Click on the bubbles to pop the hit-numbered bubble and earn points before the timer sets to zero.
 Enjoy the game!
 
 
